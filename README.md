@@ -11,7 +11,7 @@ Liên kết đến Kaggle:
 - [Notebook phân tích dữ liệu](https://www.kaggle.com/code/ngwkhai/data-exploration-and-analysis-for-vdd)
 - [RNN Seq2Seq Model](https://www.kaggle.com/code/khaingwdinh/rnn-seq2seq-vietnamese-diacritics)
 - [GRU Seq2Seq Model](https://www.kaggle.com/code/ngwkhai/gru-seq2seq-vietnamese-diacritics)
-- [LSTM Seq2Seq Model](https://www.kaggle.com/code/ngwkhai/lstm-seq2seq-vietnamese-diacritics)
+- [LSTM Seq2Seq Model](https://www.kaggle.com/code/nguyenduchuy05/lstm-seq2seq-vietnamese-diacritics)
 - [Transformer Seq2Seq Model](https://www.kaggle.com/code/khaingwdinh/train-seq2seq-transformer-vietnamese)
 - [Notebook đánh giá mô hình](https://www.kaggle.com/code/ngwkhai/nmt-evalution-results)
 
